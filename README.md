@@ -5,7 +5,11 @@ As a culminating project, will be working with a dataset from ABC company, consi
 This project focuses on analyzing ABC Company's employee dataset to derive insights into workforce distribution, salary patterns, and team dynamics. The project includes data preprocessing, statistical analysis, and visualization to present actionable findings for better organizational decision-making.
 
 ➔ Key Components of this project:
+
 Preprocessing: Ensuring the data consistency and integrity
+
 Analysis: Employee distribution, age group analysis, salary trends and correlation exploration
+
 Visualization: Effective graphs and chart for analysis.
+
 Data story and insights: Highlighting key trends and actionable conclusions
